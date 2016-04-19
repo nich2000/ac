@@ -1,2 +1,2 @@
-# ac
-Ant colony
+# nac
+NIch ant colony
